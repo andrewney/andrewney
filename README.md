@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @andrewney
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Andrew Ney
+- 👀 I’m interested in leveraging my analytical skills as a chemical engineer to pivot to a data analyst role in DeFi/ Crypto.
+- 📚 I’m currently teaching myself R, Python and dabbled in Solidity
 - 📫 How to reach me
-  - :office: [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/)
+  - 🏢: [LinkedIn](https://www.linkedin.com/in/andrew-ney/)
 
 <!---
 andrewney/andrewney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

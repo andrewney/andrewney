@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrew Ney
 - 👀 I’m interested in leveraging my analytical skills as a chemical engineer to guide my crypto/ DeFi investments.
-- 📚 I’m currently teaching myself R and Python as well as dabbling in Solidity
+- 📚 I’m currently teaching myself R, SQL and Python
 - 📫 How to reach me
   - 🏢: [LinkedIn](https://www.linkedin.com/in/andrew-ney/)
 
